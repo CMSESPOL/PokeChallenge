@@ -1,0 +1,8 @@
+@navbar-inverse-bg => #359BDD
+
+@border-radius-base => 0px
+@border-radius-large => 0px
+@border-radius-small => 0px
+
+@navbar-default-color => #000
+@navbar-default-link-color => #000
